@@ -13,7 +13,7 @@
 </head>
 <body>
 <link rel="stylesheet" href="css/style.css">
-<img class="mobile-logo" src="https://moewalls.com/wp-content/uploads/2022/09/tengen-uzui-fireworks-kimetsu-no-yaiba-thumb.jpg">
+<img class="mobile-logo" src="https://static.vecteezy.com/system/resources/previews/014/441/078/original/phone-call-icon-design-in-blue-circle-png.png">
 
 <div class="container">
   <div class="message left">Hello Left</div>
